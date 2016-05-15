@@ -1,0 +1,30 @@
+{
+  "name": "ridescheduler",
+  "version": "1.0.0",
+  "description": "A way to book Uber rides in advance from your web browser.",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctrlbee/ridescheduler.git"
+  },
+  "keywords": [
+    "Uber",
+    "ride",
+    "scheduler"
+  ],
+  "author": "Chris Bee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ctrlbee/ridescheduler/issues"
+  },
+  "homepage": "https://github.com/ctrlbee/ridescheduler#readme"
+}
